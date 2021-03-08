@@ -39,7 +39,7 @@ namespace AutomatedBuildTest.Controllers
         [HttpGet("[action]")]
         public string GetString()
         {
-            return "Selamlar Hocam.";
+            return "Selamlar Develop.";
         }
     }
 }
