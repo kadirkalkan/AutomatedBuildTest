@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedBuildTest", "AutomatedBuildTest.csproj", "{DFA3EECE-0CFC-48DD-AF22-573FD4980511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA3EECE-0CFC-48DD-AF22-573FD4980511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA3EECE-0CFC-48DD-AF22-573FD4980511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA3EECE-0CFC-48DD-AF22-573FD4980511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA3EECE-0CFC-48DD-AF22-573FD4980511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB01B809-C81A-4C9A-AE52-B18F8E6BC698}
+	EndGlobalSection
+EndGlobal
