@@ -35,5 +35,11 @@ namespace AutomatedBuildTest.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("[action]")]
+        public string GetString()
+        {
+            return "Selamlar Hocam.";
+        }
     }
 }
